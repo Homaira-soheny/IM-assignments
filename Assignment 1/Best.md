@@ -3,7 +3,8 @@ complexity of an algorithm. The complexity of an algorithm means the steps requi
 
 We have 5 algorithm and to explain which one is the best we need to know their running time complexity.
 
-Let, n = 4 #input size
+     Let, 
+     n = 4 #input size
 
      k = 4 #a constant
      
@@ -52,7 +53,7 @@ Here, Runtime grows directly in proportion to n^3.
 
 #A polynomial algorithm – O(n^k)
 
-    y = (4^4) 
+    y = (4^4) # k = 4
    
     y = 256  # 256 steps are needed
    
