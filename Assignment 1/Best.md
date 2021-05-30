@@ -4,11 +4,16 @@ complexity of an algorithm. The complexity of an algorithm means the steps requi
 We have 5 algorithm and to explain which one is the best we need to know their running time complexity.
 
 Let, n = 4 #input size
+
      k = 4 #a constant
+     
      y = running time
+     
 
 #A logarithmic algorithm – O(logn)
+
     y = log(4)  # base 2
+    
     y = 2.0 # 2 steps
     
 Here, Runtime grows logarithmically in proportion to n. 
